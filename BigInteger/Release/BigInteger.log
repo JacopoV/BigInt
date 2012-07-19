@@ -1,0 +1,9 @@
+﻿Build started 19/07/2012 13:53:17.
+     1>Project "C:\Users\FOX\Documents\GitHub\BigInt\BigInteger\BigInteger.vcxproj" on node 2 (clean target(s)).
+     1>_PrepareForClean:
+         Deleting file "Release\BigInteger.lastbuildstate".
+     1>Done Building Project "C:\Users\FOX\Documents\GitHub\BigInt\BigInteger\BigInteger.vcxproj" (clean target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.35
